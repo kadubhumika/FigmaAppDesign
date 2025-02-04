@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    printf("Hello Everyone\n");
+    printf("I have Made My First App On Figma To Learn App UI...\n");
+    printf("My App Name Is \"ECOEATS\"...\n\n");
+    printf("I will Share My App Link:\n");
+    printf("https://www.figma.com/design/JiDcsYYYWxNwBR8oGLR3Mw/Untitled?node-id=0-1&t=AgmUXNUXEf3TeVYA-1\n");
+    printf("Here, You Can Go Visit My First UI App !!\n");
+
+    return 0;
+}
