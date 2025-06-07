@@ -8,6 +8,7 @@ int main() {
     printf("https://www.figma.com/design/JiDcsYYYWxNwBR8oGLR3Mw/Untitled?node-id=0-1&t=AgmUXNUXEf3TeVYA-1\n");
     printf("Here, You Can Go Visit My First UI App !!\n");
     printf("Please share feedback ...");
+    printf("Thank you!!");
 
     return 0;
 }
